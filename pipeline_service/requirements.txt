@@ -1,0 +1,8 @@
+dlt
+dlt[postgres]
+fastapi
+httpx
+pydantic
+python-dotenv
+sqlalchemy
+uvicorn
